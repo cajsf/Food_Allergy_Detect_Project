@@ -5,6 +5,8 @@
 로그인한 사용자에게는 등록해 둔 본인의 알레르기 정보와 대조해 **개인 맞춤형 경고**를 제공합니다.
 
 > 2025-1 데이터베이스 기말 프로젝트 (개인)
+>
+> 🔗 **후속 프로젝트**: 이 시스템을 기반으로 YOLO v8 이미지 인식과 Gemini LLM을 결합해 웹 서비스로 확장한 [AllerCheck (python_deeplearning_project)](https://github.com/cajsf/python_deeplearning_project)
 
 ## 주요 기능
 
