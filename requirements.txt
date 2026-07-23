@@ -1,0 +1,10 @@
+# 애플리케이션 (food_allergy_app)
+pymysql
+bcrypt
+
+# 데이터 수집·적재 (웹크롤링_오뚜기.ipynb, 데이터베이스.ipynb)
+pandas
+requests
+beautifulsoup4
+pytesseract
+Pillow
