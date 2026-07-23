@@ -6,7 +6,7 @@
 
 > 2025-1 데이터베이스 기말 프로젝트 (개인)
 >
-> 🔗 **후속 프로젝트**: 이 시스템을 기반으로 YOLO v8 이미지 인식과 Gemini LLM을 결합해 웹 서비스로 확장한 [AllerCheck (python_deeplearning_project)](https://github.com/cajsf/python_deeplearning_project)
+> 🔗 **후속 프로젝트**: 이 시스템을 기반으로 YOLO v8 이미지 인식과 Gemini LLM을 결합해 웹 서비스로 확장한 [AllerCheck](https://github.com/cajsf/allercheck)
 
 ## 주요 기능
 
